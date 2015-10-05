@@ -7,3 +7,4 @@ applications:
   services:
     ${name}-db:
       type: postgresql
+  stack: cflinuxfs2
